@@ -5,7 +5,7 @@ function week4() {
 	var names = ["Yaakov", "John", "Jen", "Jason", "pual", "Frank", "Larry", "Puala", "Laura", "Jim"];
 
 	for (var i =0; i < names.length; i++) {
-	if((names[i][0]=="J" || "j")){
+	if((names[i][0]=="J")){
 											person =(" Good bye " + names[i]);
 	}else{
 											person=(" Hello " + names[i]);
